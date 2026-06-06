@@ -11,7 +11,7 @@
 CREATE DATABASE IF NOT EXISTS company;
 USE company;
 
--- ============================================
+-- ===========================================
 -- BASIC CREATE TABLE SYNTAX
 -- ============================================
 CREATE TABLE employees (
